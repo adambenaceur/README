@@ -1,11 +1,11 @@
 # Hi, I'm Adam 👋 
 
-## I'm a nursing student
+## Aspiring full stack and solidity developer
 
 - 🔨 I'm currently working on side projects
 - 🌱 I’m learning full stack development and solidity 
 - 🎯 2022 Goals: Learn more about web3, commit 1000 contributions, create a portfolio website 
-- 🧠 Fun fact: I love playing chess. Current elo at 1000 
+- 🧠 Fun fact: I'm a nursing student
 
 ### Connect with me:
 
