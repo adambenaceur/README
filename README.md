@@ -4,7 +4,10 @@
 
 - 🔨 I'm currently working on side projects
 - 🌱 I’m learning full stack development and solidity 
-- 🎯 2022 Goals: Learn more about web3, commit 1000 contributions, create a portfolio website 
+- 🎯 2022 Goals: 
+   - Learn more about web3 💡
+   - Commit 1000 contributions 💪
+   - Create a portfolio website 🖥️ 
 - 🧠 Fun fact: I'm a nursing student
 
 ### Connect with me:
