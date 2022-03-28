@@ -1,6 +1,6 @@
-# Hi, I'm Adam 👋 
+## Hi, I'm Adam 👋 
 
-## Aspiring full stack and solidity developer
+# I'm an aspiring full stack and solidity developer!
 
 - 🔨 I'm currently working on side projects
 - 🌱 I’m learning full stack development and solidity 
