@@ -1,4 +1,4 @@
-# Hi there, I'm Adam 👋 
+# Hi, I'm Adam 👋 
 
 ## I'm a nursing student
 
