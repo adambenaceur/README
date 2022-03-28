@@ -2,10 +2,10 @@
 
 ## I'm a nursing student
 
-- 🌱 I’m currently learning full stack development and solidity 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3, commit 1000 contributions 
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I'm Currently working on side projects
+- 👯 I’m currently learning full stack development and solidity 
+- 🥅 2022 Goals: Learn more about web3, commit 1000 contributions, create a portfolio website 
+- ⚡ Fun fact: 
 
 ### Connect with me:
 
