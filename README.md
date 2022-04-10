@@ -1,3 +1,5 @@
+# `$ whoami`
+
 ## Hi, I'm Adam 👋 
 
 - 🔨 I'm currently working on side projects
