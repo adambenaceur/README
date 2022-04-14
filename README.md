@@ -6,7 +6,7 @@
 - 🌱 I’m learning Javascript/React and solidity 
 - 🎯 2022 Goals: 
    - Learn more about web3 💡 ✅ 
-   - Commit 1000 contributions 💪
+   - Commit 1000 contributions 💪 ☐
    - Create a portfolio website 🖥️ ✅ 
 
 
