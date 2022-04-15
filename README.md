@@ -10,16 +10,6 @@
    - Commit 1000 contributions 💪 ☐
    - Create a portfolio website 🖥️ ✅ 
 
-
-### Connect with me:
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/adambenaceur/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/adambenaceur/#gh-dark-mode-only)
-&nbsp;&nbsp;
-
-
-### Languages :
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adambenaceur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
