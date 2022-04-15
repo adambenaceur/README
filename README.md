@@ -1,12 +1,14 @@
-# `$ whoami` 
+# `$ whoami`  
 
 <a href="https://github.com/adambenaceur#gh-dark-mode-only">
-# Hi, I'm Adam 👋  <img align="right" width='400' height='300' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adambenaceur&layout=compact&theme=tokyonight" />
+ <img align="right" width='400' height='300' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adambenaceur&layout=compact&theme=tokyonight" >
 </a>
 
 <a href="https://github.com/adambenaceur#gh-light-mode-only">
-# Hi, I'm Adam 👋  <img align="right" width='400' height='300' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adambenaceur&layout=compact" />
+ <img align="right" width='400' height='300' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adambenaceur&layout=compact" >
 </a>
+
+# Hi, I'm Adam 👋
 
 - 🧠 Fun fact: I'm a nursing student
 - 🔨 I'm currently working on side projects
