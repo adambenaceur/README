@@ -1,6 +1,5 @@
 
- # ```$ whoami``` 
-
+# <h1 align='center'> ```$ whoami``` </h1>
 
 <a href="https://github.com/adambenaceur#gh-dark-mode-only">
  <img align="right" width='400' height='300' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adambenaceur&layout=compact&theme=tokyonight" >
