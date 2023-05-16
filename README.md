@@ -12,12 +12,23 @@
 ### Hi, I'm Adam 👋
 
 - 🧠 Fun fact: I'm a nursing student
-- 🔨 I'm currently working on side projects
-- 🌱 I’m learning Javascript, React, Python, and Solidity 
+- 🔨 I'm currently programming on hobby projects for fun
+- 🌱 I’m learning Javascript and Python 
+
+- 🎯 2023 Goals:  
+   - Commit 1000 contributions 💪 ☐
+   - Create a portfolio website 🖥️ ✅ 
+
+
 - 🎯 2022 Goals: 
    - Learn more about web3 💡 ✅ 
    - Commit 1000 contributions 💪 ☐
    - Create a portfolio website 🖥️ ✅ 
+
+
+
+
+ 
 
 
 
