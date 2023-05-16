@@ -16,8 +16,8 @@
 - 🌱 I’m learning Javascript and Python 
 
 - 🎯 2023 Goals:  
-   - Commit 1000 contributions 💪 ☐
-   - Create a portfolio website 🖥️ ✅ 
+   - Commit 1000 total contributions 💪 ☐
+   - Redesign website 🖥️ ☐ 
 
 
 - 🎯 2022 Goals: 
