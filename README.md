@@ -17,7 +17,7 @@
 
 - 🎯 2023 Goals:  
    - Commit 1000 total contributions 💪 ☐
-   - Redesign website 🖥️ ☐ 
+   - Redesign personal website 🖥️ ☐ 
 
 
 - 🎯 2022 Goals: 
