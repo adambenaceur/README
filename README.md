@@ -22,7 +22,7 @@
 
 - 🎯 2022 Goals: 
    - Learn more about web3 💡 ✅ 
-   - Commit 1000 contributions 💪 ☐
+   - Commit 1000 contributions 💪 (485/1000 completed)
    - Create a portfolio website 🖥️ ✅ 
 
 
