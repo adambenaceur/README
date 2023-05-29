@@ -20,11 +20,6 @@
    - Redesign personal website 🖥️ ☐ 
 
 
-- 🎯 2022 Goals: 
-   - Learn more about web3 💡 ✅ 
-   - Commit 1000 contributions 💪 
-   - Create a portfolio website 🖥️ ✅ 
-
 
 
 
