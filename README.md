@@ -1,5 +1,5 @@
 
-# <h1 align='center'> ```$ whoami``` </h1>
+# <h1 align='center'> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=38F71E&center=true&vCenter=true&repeat=false&width=435&height=90&lines=%24+Whoami" alt="Typing SVG" /></a> </h1>
 
 <a href="https://github.com/adambenaceur#gh-dark-mode-only">
  <img align="right" width='400' height='300' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adambenaceur&layout=compact&theme=tokyonight" >
